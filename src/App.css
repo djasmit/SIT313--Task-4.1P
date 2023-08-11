@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+body {
+  margin: auto;
+}
+
+.btn btn-primary {
+  width: 64px;
+}
+
+h1 {
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

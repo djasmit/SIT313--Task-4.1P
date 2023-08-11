@@ -1,0 +1,17 @@
+.banner {
+    height: 256px;
+    max-height: 33%;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;    
+}
+
+.banner img {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    top: 50%;
+    transform: translate(0, -50%);
+}

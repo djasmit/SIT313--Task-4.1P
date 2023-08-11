@@ -1,0 +1,14 @@
+.footer {
+    background-color: lightslategray;
+    padding: 16px;
+    margin-top: 32px;
+}
+
+.footer .row {
+    padding-top: 16px;
+}
+
+
+.center-text {
+    text-align: center;
+}
